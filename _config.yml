@@ -17,19 +17,19 @@ authors:
   sal:
     name: Paula Demarco
     display_name: Paula
-    avatar: 'assets/images/avatar-sal.png'
+    avatar: 'assets/images/avatar-pau.png'
     email: pademarco@ksu.edu
     web: https://www.PaulaDemarco.github.io
     twitter: https://twitter.com/PaulaADemarco
-    description: "M.Sc. in Agronomy. Graduate Rsearch Assistant at Kansas State University."
+    description: "M.Sc. in Agronomy. Graduate Research Assistant at Kansas State University."
   john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+    name: Javier
+    display_name: Javier    
+    avatar: 'assets/images/avatar-javi.png'
+    email: jafernandez@ksu.edu
+    web: https://www.jafernandez.netlify.app
+    twitter: https://twitter.com/Jav1erFernandez
+    description: "Ph.D. in Agronomy. Graduate Research Assistant at Kansas State University."
 
 # Plugins
 plugins:
