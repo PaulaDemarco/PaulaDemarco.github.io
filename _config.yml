@@ -1,7 +1,7 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+name: "Paula Demarco"
+title: "Paula Demarco"
+description: "Sorghum research"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 #baseurl: /jekyll-theme-memoirs
@@ -10,18 +10,18 @@ disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: pademarco@ksu.edu
 
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Paula Demarco
+    display_name: Paula
     avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+    email: pademarco@ksu.edu
+    web: https://www.PaulaDemarco.github.io
+    twitter: https://twitter.com/PaulaADemarco
+    description: "M.Sc. in Agronomy. Graduate Rsearch Assistant at Kansas State University."
   john:
     name: John
     display_name: John    
