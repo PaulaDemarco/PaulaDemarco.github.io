@@ -17,7 +17,7 @@ authors:
   sal:
     name: Paula Demarco
     display_name: Paula
-    avatar: 'assets/images/avatar-pau.png'
+    avatar: 'assets/images/avatar-pau.jpeg'
     email: pademarco@ksu.edu
     web: https://www.PaulaDemarco.github.io
     twitter: https://twitter.com/PaulaADemarco
@@ -25,7 +25,7 @@ authors:
   john:
     name: Javier
     display_name: Javier    
-    avatar: 'assets/images/avatar-javi.png'
+    avatar: 'assets/images/avatar-javi.jpeg'
     email: jafernandez@ksu.edu
     web: https://www.jafernandez.netlify.app
     twitter: https://twitter.com/Jav1erFernandez
