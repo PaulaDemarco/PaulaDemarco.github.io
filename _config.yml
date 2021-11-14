@@ -3,7 +3,7 @@ name: "Paula Demarco"
 title: "Paula Demarco"
 description: "Sorghum research"
 logo: 'assets/images/logo_pj.png'
-favicon: 'assets/images/icon_pj.ico'
+favicon: 'assets/images/favicon.ico'
 #baseurl: /jekyll-theme-memoirs
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
