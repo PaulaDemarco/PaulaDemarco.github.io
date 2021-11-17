@@ -2,7 +2,6 @@
 layout: post
 title:  "Hi there, Meet us!"
 author: Paula
-author: Javier
 categories: [ Lifestyle ]
 tags: [ France ]
 image: assets/images/Post1-Head.png
