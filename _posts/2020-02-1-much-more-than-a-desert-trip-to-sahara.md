@@ -9,7 +9,7 @@ image: assets/images/Post2-Head.png
 Introduccion al tema.
 
 
-![Highlights](Post2-Gif.gif) / ![](Post2-Gif.gif) 
+![Highlights](Post2-Gif.gif)
 
 The desert comprises much of North Africa, excluding the fertile region on the Mediterranean Sea coast, the Atlas Mountains of the Maghreb, and the Nile Valley in Egypt and Sudan. It stretches from the Red Sea in the east and the Mediterranean in the north to the Atlantic Ocean in the west, where the landscape gradually changes from desert to coastal plains. 
 
