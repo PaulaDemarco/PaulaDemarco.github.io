@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Hi there, Meet us!"
+title:  "N dulution curve"
 author: Paula
 categories: [ Lifestyle ]
 tags: [ France ]
-image: assets/images/Post1-Head.png
+image: assets/images/Post3-Head.png
 rating: 4.5
 ---
 
