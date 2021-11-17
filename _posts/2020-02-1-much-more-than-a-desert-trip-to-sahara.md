@@ -3,7 +3,7 @@ layout: post
 title:  "Late season N in corn"
 author: Pau
 categories: [ Travel ]
-image: assets/images/Post Head.png
+image: assets/images/Post2-Head.png
 ---
 
 The Sahara is a desert located on the African continent. It is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic. Its area of 9,200,000 square kilometres (3,600,000 sq mi) is comparable to the area of China or the United States.[3] The name 'Sahara' is derived from a dialectal Arabic word for "desert", ṣaḥra (صحرا /ˈsˤaħra/).
