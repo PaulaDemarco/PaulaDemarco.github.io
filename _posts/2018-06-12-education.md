@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
+title:  "Education on sorghum must also train one for quick, resolute and effective thinking."
 author: john
 categories: [ Lifestyle ]
 image: assets/images/3.jpg
@@ -10,7 +10,7 @@ toc: true
 Memoirs theme has Prism highlighter integrated. I will show you in this post a few examples of how it looks if you are a developer planning to add pieces of code on your website.
 
 
-#### HTML
+#### HTML and R
 
 ```html
 <li class="ml-1 mr-1">
@@ -20,7 +20,7 @@ Memoirs theme has Prism highlighter integrated. I will show you in this post a f
 </li>
 ```
 
-#### CSS
+#### CS
 
 ```css
 .highlight .c {
