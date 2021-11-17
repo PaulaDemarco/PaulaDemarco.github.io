@@ -1,21 +1,20 @@
 ---
 layout: post
-title:  "Les Ambassadeurs, the first Restaurant we Visited in Paris"
-author: sal
+title:  "Hi there!, Meet us :)"
+author: Pau & Javi
 categories: [ Lifestyle ]
 tags: [ France ]
-image: assets/images/2.jpg
+image: assets/images/Post1-Head.png
 rating: 4.5
 ---
 
-Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century. 
+> We are Javier and Paula, passioned for agriculture, plant physiology, and crop production specifically Corn and Sorghum. We opened this space to share our research, bring information to everyone interested in agriculture, and connect with the community.
 
-Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.
+We are both from Argentina, where we met back in 2013 during the bachelor’s degree at the Universidad Nacional del Nordeste (UNNE). We graduated from the same university as agronomist engineers, and we decided to continue our education in the US. So, we jumped in a plane and here we are in Manhattan, KS working at Kansas State University since 2017.
 
-> It was decorated in an 18th-century rococo style, redesigned by Sybille de Margérie with furnishings by Sonia Rykiel.
+Javier after finishing his BS in Argentina, got a Fulbright scholarship to continue his education in the United States. He decided to start his Ph.D. in agronomy at K-State under Dr. Ignacio Ciampitti’s direction during fall 2017. His research focused on fertilization responses on yields, nitrogen (N) uptake, grain quality, and N use efficiency across contrasting hybrids.
 
-Following a renovation of the hotel in 1981–85, the restaurant occupied a former private ballroom with windows looking out on the Place de la Concorde, a few hundred meters from the Palais Garnier. 
+Paula started working at K-State in Ciampitti Lab in April 2018 as a research scholar, performing lab analysis and field activities. She started her master’s degree in agronomy in January 2020 and her research focuses on yield gain and related traits in US Sorghum hybrids.
 
-Les Ambassadeurs had two Michelin stars. In the last decade of its operation, chef was Dominique Bouchet  followed by Jean-François Piège and finally when the hotel closed in 2013 for an extended renovation, Christopher Hache.
+We will be graduating in December 2021, and we are looking forward to new adventures and challenges to come. We would love for you to stick around and share with us this space to talk about science, research, and much more related to agriculture.
 
-In 2017 Hache opened a smaller restaurant, L'Écrin, within the renovated hotel; the former space of Les Ambassadeurs became a bar.
